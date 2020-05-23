@@ -72,7 +72,7 @@ All code in this repository is copyright 2020. All Rights Reserved.
 
 Licensed under the MIT License. You may not use this file except in compliance with the License. Use and/or modification of this code outside of this repository must reference:
 
-!© DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins
+© DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins
 
 ## Conclusion:
 If you like this repository and please put a star. This will keep me motivated to work more on these. 
