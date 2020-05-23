@@ -22,7 +22,6 @@ Urmi Sen and Md. Al Mehedi Hasan
 ## Methodology
 ### Dataset Description:
 
-Glutarylation Dataset Description:
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/data_des.PNG)
 
 The dataset in given in this repository, but to work with the latest dataset please download dataset from the following links. <br>
@@ -34,13 +33,12 @@ The dataset in given in this repository, but to work with the latest dataset ple
 imbalanced ratio = 3498/590
                  = 5.93 : 1
 
-Data Imbalanced Ratio :
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/ratio.PNG)
 
 ## Feature Construction
 
-Data Imbalanced Ratio 
-![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/ratio.PNG)
+### One-hot Encoding
+![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/one_hot.PNG)
 
 ## Results
 Will be updated soon.
