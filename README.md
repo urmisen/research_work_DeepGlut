@@ -44,7 +44,7 @@ imbalanced ratio = 3498/590
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/model.PNG)
 
 ## Classification
-### whole Classification Process
+### Whole Classification Process
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/classification.PNG)
 ## Results
 ####  performance measurement on independent test set
@@ -59,7 +59,19 @@ imbalanced ratio = 3498/590
 |------------------|-------------------|---------------------|---------------|
 | 0.7616           | 0.7267            | 0.8494              | 0.8383        |
 
+####  The ROC curves for 10 fold cross-validation and independent test
 
+![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/AUC.PNG)
+
+## Paper Link
+Will  be uploaded soon!
+
+## License
+
+All code in this repository is copyright 2020. All Rights Reserved.
+
+Licensed under the MIT License. You may not use this file except in compliance with the License. Use and/or modification of this code outside of this repository must reference:
+© DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins
 
 ## Conclusion:
 If you like this repository and please put a star. This will keep me motivated to work more on these. 
