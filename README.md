@@ -47,7 +47,12 @@ imbalanced ratio = 3498/590
 ### whole Classification Process
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/classification.PNG)
 ## Results
-Will be updated soon.
+###  performance measurement on independent test set
+
+Accuracy | Precision | Sensitivity | AUC
+------------ | -------------
+0.7254 | 0.76 | 0.67 | 0.7585
+
 
 ## Conclusion:
 If you like this repository and please put a star. This will keep me motivated to work more on these. 
