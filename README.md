@@ -40,7 +40,7 @@ The dataset in given in this repository, but to work with the latest dataset ple
 imbalanced ratio = 3498/590
                  = 5.93 : 1
 
-<img src="https://github.com/urmisen/DeepGlut/blob/master/ratio.PNG" alt="alt text" width="310" height="260">
+<img src="https://github.com/urmisen/DeepGlut/blob/master/ratio.PNG" alt="alt text" width="380" height="260">
 
 ## Feature Construction
 ### One-hot Encoding
@@ -69,7 +69,7 @@ imbalanced ratio = 3498/590
 
 ####  The ROC curves for 10 fold cross-validation and independent test
 
-<img src="https://github.com/urmisen/DeepGlut/blob/master/AUC.PNG" alt="alt text" width="350" height="300">
+<img src="https://github.com/urmisen/DeepGlut/blob/master/AUC.PNG" alt="alt text" width="380" height="300">
 
 ## Paper Link
 Will  be uploaded soon!
