@@ -49,11 +49,12 @@ imbalanced ratio = 3498/590
 ## Results
 ###  performance measurement on independent test set
 
-Accuracy | Precision | Sensitivity | AUC
+/***
+| __Accuracy__ | __Precision__ | __Sensitivity__ |  __AUC__  |
+|--------------|---------------|-----------------|-----------|
+| 0.7254       | 0.76          | 0.67            | 0.7585    |
+***/
 
------------- | -------------
-
-0.7254 | 0.76 | 0.67 | 0.7585
 
 
 ## Conclusion:
