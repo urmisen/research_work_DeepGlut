@@ -36,10 +36,16 @@ imbalanced ratio = 3498/590
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/ratio.PNG)
 
 ## Feature Construction
-
 ### One-hot Encoding
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/one_hot.PNG)
 
+## Model Implementation
+### Convolutional Neural network(CNN)
+![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/model.PNG)
+
+## Classification
+### whole Classification Process
+![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/classification.PNG)
 ## Results
 Will be updated soon.
 
