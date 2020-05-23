@@ -47,12 +47,17 @@ imbalanced ratio = 3498/590
 ### whole Classification Process
 ![Alt Text](https://github.com/urmisen/DeepGlut/blob/master/classification.PNG)
 ## Results
-###  performance measurement on independent test set
+####  performance measurement on independent test set
 
-| __Accuracy__ | __Precision__ | __Sensitivity__ |  __AUC__  |
-|--------------|---------------|-----------------|-----------|
-| 0.7254       | 0.76          | 0.67            | 0.7585    |
+|   __Accuracy__   |   __Precision__   |   __Sensitivity__   |    __AUC__    |
+|------------------|-------------------|---------------------|---------------|
+| 0.7254           | 0.76              | 0.67                | 0.7585        |
 
+####  performance measurement for 10 fold cross validation
+
+|   __Accuracy__   |   __Precision__   |   __Sensitivity__   |    __AUC__    |
+|------------------|-------------------|---------------------|---------------|
+| 0.7616           | 0.7267            | 0.8494              | 0.8383        |
 
 
 
