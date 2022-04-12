@@ -71,7 +71,7 @@ imbalanced ratio = 3498/590
 <img src="https://github.com/urmisen/DeepGlut/blob/master/AUC.PNG" alt="alt text" width="350" height="300">
 
 ## Paper Link
-Will  be uploaded soon!
+https://ieeexplore.ieee.org/abstract/document/9230866 </br>
 
 ## License
 
